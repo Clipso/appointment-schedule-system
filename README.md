@@ -26,3 +26,12 @@ This is a RESTful API for an appointment scheduling system that allows users to 
 
 ### ERD
 ![ERD](/prisma/prisma-erd.svg)
+
+### CREATE APPOINTMENT
+![CREATE](/postman-img/create-appointment.png)
+
+### GET AVAILABLE SLOTS
+![GET](/postman-img/get-available-slots.png)
+
+### DEL APPOINTMENT
+![DEL](/postman-img/delete-appointment.png)
