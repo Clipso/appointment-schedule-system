@@ -20,7 +20,7 @@ This is a RESTful API for an appointment scheduling system that allows users to 
 
 ## Getting Started
 
-1. Clone the repository: <>
+1. Clone the repository: <git@github.com:Clipso/appointment-schedule-system.git>
 2. npm install
 
 
